@@ -1,5 +1,5 @@
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+# Random Recipe Generator
+Not sure what to cook on a week night? This application generators a random recipe for you to try or prepare for a meal with over 100+ to choose from.
 
 **Link to project:** https://chefstatusrecipegenerator.netlify.app/
 
@@ -9,27 +9,42 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
-
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+My learning was focused on making a simple UI and a smooth UX, by minimizing the information coming from the recipes and giving them all the details they need to complete one. Adding javascript to the recipe animations and youtube links would be more visually pleasing.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *fuck yeah I did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+I learned that creating a successful project, isn't determined by it's complexity.
 
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="33.3%" valign="top">
+    
+<a target="_blank" href="https://github.com/JustyMoy/portfolioSalon"> MKE Color Salon</a>
+        <br />
+      <a target="_blank" href="https://github.com/JustyMoy/portfolioSalon">
+![alt tag](https://user-images.githubusercontent.com/87396968/179092262-1806e6a0-2595-4ed9-88d2-5d8ca214f255.png)
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/JustyMoy/portfolioSalon"> Portfolio Website</a>
+        <br />
+      <a target="_blank" href="https://github.com/JustyMoy/PortfolioWebsite">
+![alt tag](https://user-images.githubusercontent.com/87396968/179094479-a3d272dc-7645-439c-aaab-b28f61a30670.png)
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+<a target="_blank" href="https://github.com/JustyMoy/HealthyCheatMealAPI"> Healthy Cheat Meals</a>
+        <br />
+      <a target="_blank" href="https://github.com/JustyMoy/HealthyCheatMealAPI">
+![alt tag](https://user-images.githubusercontent.com/87396968/179097309-b8ebcdb1-28db-4bfa-86d0-06d1e5b36bbd.png)
+        </a>
+    </td>
+  </tr>
+</table>
 
 
 
