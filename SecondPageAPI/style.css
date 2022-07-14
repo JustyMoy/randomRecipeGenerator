@@ -27,7 +27,7 @@
 /*******************************************/
 body{
 background-image: url('white.jpg');
-background-size: 2000px;
+background-size: 1500px;
 }
 .meal{
      display: flex;
